@@ -1,0 +1,86 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ /* Bordered form */
+ form {
+
+    border: 3px solid #f1f1f1;
+    width: 430px;
+    height: 70vh;
+  
+  }
+  .PrDSKc{
+    padding-bottom: 3px;
+      padding-top: 9px;
+      margin-left: 32px;
+    
+   
+  }
+  .learn-more{
+    margin-right: 74%;
+    color: #1a73e8;
+  }
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    width: 300px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    
+  }
+  a{
+    color: #1a73e8;
+    text-decoration: none;
+   
+  }
+  a:hover{
+    opacity: 0.8;
+   
+    
+  }
+  .forget{
+    margin-left: 120px;
+  }
+  .logo{
+    margin-top: 50px;
+  }
+  span{
+    color: #202124;
+      font-size: 24px;
+      font-family: "Google Sans","Noto Sans Myanmar UI",arial,sans-serif;
+      font-weight: 400;
+      line-height: 1.3333;
+      margin-bottom: 0;
+      margin-top: 0;
+      word-break: break-word;
+  }
+  p{
+    color: #202124;
+      font-size: 18px;
+      font-weight: 400;
+      letter-spacing: 0.1px;
+      line-height: 1.5;
+  }
+  /* Set a style for all buttons */
+  .sign-in {
+    background-color: #498af2;
+    color: white;
+    padding: 14px 30px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    width: 300px;
+  }
+  
+  /* Add a hover effect for buttons */
+  .sign-in:hover {
+    opacity: 0.8;
+  }
+  
